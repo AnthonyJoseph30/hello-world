@@ -5,4 +5,4 @@ I am new to the world of tech and have hopes of progressing on to meaningful thi
 
 Starting off as a rookie the aim is to reach sensei level.
 
-Let the games begin
+Let the games begin.
