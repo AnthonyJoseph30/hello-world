@@ -1,5 +1,5 @@
 # hello-world
-This Project is just the beginning of a new adventure into the submersive world of virtual reality.
+This Project is just the beginning of a new adventure into the magical world of virtual reality.
 
 I am new to the world of tech and have hopes of progressing on to meaningful things.
 
